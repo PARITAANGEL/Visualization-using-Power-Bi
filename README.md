@@ -20,7 +20,7 @@ Project Files:
 1. Analysis of disease and fitness factors.pbix
 
 
-PROJECT NAME: **CALL CENTER Data.pptx**
+PROJECT NAME: **CALL CENTER Data**
 
 DATASET: https://github.com/PARITAANGEL/Visualization-using-Power-Bi/blob/main/01%20Call-Center-Dataset.xlsx
 
